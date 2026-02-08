@@ -1,0 +1,22 @@
+# --- OS & System Files ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- VS Code Settings ---
+.vscode/
+
+# --- JavaScript / Node.js ---
+node_modules/
+# Error logs
+*.log
+npm-debug.log
+
+# --- Compiled Files ---
+*.exe
+*.o
+*.out
+*.dll
+
+# --- Security ---
+.env
